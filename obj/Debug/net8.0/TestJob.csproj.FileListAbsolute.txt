@@ -1,0 +1,14 @@
+F:\TestJob\bin\Debug\net8.0\TestJob.exe
+F:\TestJob\bin\Debug\net8.0\TestJob.deps.json
+F:\TestJob\bin\Debug\net8.0\TestJob.runtimeconfig.json
+F:\TestJob\bin\Debug\net8.0\TestJob.dll
+F:\TestJob\bin\Debug\net8.0\TestJob.pdb
+F:\TestJob\obj\Debug\net8.0\TestJob.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestJob\obj\Debug\net8.0\TestJob.AssemblyInfoInputs.cache
+F:\TestJob\obj\Debug\net8.0\TestJob.AssemblyInfo.cs
+F:\TestJob\obj\Debug\net8.0\TestJob.csproj.CoreCompileInputs.cache
+F:\TestJob\obj\Debug\net8.0\TestJob.dll
+F:\TestJob\obj\Debug\net8.0\refint\TestJob.dll
+F:\TestJob\obj\Debug\net8.0\TestJob.pdb
+F:\TestJob\obj\Debug\net8.0\TestJob.genruntimeconfig.cache
+F:\TestJob\obj\Debug\net8.0\ref\TestJob.dll
